@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">clone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signout">signout</string>
+    <string name="edit_profile">edit profile</string>
+    <string name="my_social_app">My Social App</string>
+</resources>

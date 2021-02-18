@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440382099936",
+    "project_id": "clone-bb7ad",
+    "storage_bucket": "clone-bb7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440382099936:android:a1216b109b1bd61be6db85",
+        "android_client_info": {
+          "package_name": "com.heshan.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440382099936-8n0fagqu0mshkh9sjdi2rvblnmja84lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrytP6wN6yK7CHPNF_jPqu0EEKyVunYcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440382099936-8n0fagqu0mshkh9sjdi2rvblnmja84lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
